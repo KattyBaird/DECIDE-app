@@ -15,6 +15,5 @@ as static content within the app.
 These pages, and associated resources like images, are stored
 withint the *infopages* sub-folder. There is also a text file
 in that folder - *menu.txt* - which defines the Infomation
-pages menu within the app. This text file references the markdown
-pages via a tag encoded within a comment on the first line
-of each markdown page.
+pages menu within the app. The comment on the first line
+of each markdown page provides the page title used in the app.
