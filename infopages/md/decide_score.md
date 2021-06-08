@@ -9,7 +9,7 @@ In the current version of the app, DECIDE scores are displayed visually as a map
 
 In the current version of the app, DECIDE scores are mapped for just two groups of species:
 - all butterflies 
-- all moths
+- all day-flying moths
 
 So these maps show the relative values of cells for new records of butterflies and moths respectively, without saying anything about the relative value of records of different species within those groups. It is possible to generate DECIDE score maps for any group of species, or even individual species. Later versions of the app may provide more flexibility in this respect.
 
