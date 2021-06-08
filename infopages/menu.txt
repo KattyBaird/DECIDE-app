@@ -2,3 +2,4 @@ DECIDE project introduction ## decide_info
 App development ## under_construction
 The DECIDE score ## decide_score
 User preferences ## personal_info
+Tracking Use ## tracking_use
