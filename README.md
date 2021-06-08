@@ -17,3 +17,7 @@ withint the *infopages* sub-folder. There is also a text file
 in that folder - *menu.txt* - which defines the Infomation
 pages menu within the app. The comment on the first line
 of each markdown page provides the page title used in the app.
+
+Note that the markdown pages are consumed in the app by a React
+plugin that is capable of interpreting HTML too. We're using HTML/CSS
+here and there within the MD pages, e.g. to float images.
