@@ -1,5 +1,7 @@
 DECIDE project introduction ## decide_info
-App development ## under_construction
+Find out more ## find_out_more
 The DECIDE score ## decide_score
-User preferences ## personal_info
+User agreement ## user_agreement
 Tracking use ## tracking_use
+App development ## in_development
+Frequently asked questions ## faq
