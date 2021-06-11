@@ -4,7 +4,7 @@
 - The DECIDE Tool operates on a 'freemium' model - anyone can use the tool without logging in. Users who register can choose how much information to share with the tool. Settings can be updated at any time. We recommend that users register to receive full functionality of future versions of the tool and opt in to receive communications. 
 
 ## Disclaimer
-The information in this tool is advisory. Information is provided in good faith, but this should not be taken as a legal basis for right of access. In all circumstances. In all circumstances, it is the user's responsibility to prioritise their own health and safety.
+The information in this tool is advisory. Information is provided in good faith, but this should not be taken as a legal basis for right of access. In all circumstances, it is the user's responsibility to prioritise their own health and safety.
 ## What you agree to if you contribute to DECIDE 
 - If you contribute to the DECIDE project through use of the Tool, registering and providing feedback, you grant us and our collaborators permission to use your contributions to further the goal of supporting wildlife recorders in making valuable records of wildlife for use in monitoring and research. 
 - We ask that you grant us these permissions because they allow us to respond to the changing situation of the Tool as it is developed through feedback from users, analysis of people’s use of the Tool and members of the research team. 
