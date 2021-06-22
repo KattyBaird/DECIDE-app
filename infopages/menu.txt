@@ -1,7 +1,10 @@
 DECIDE project introduction ## decide_info
+Blogs
+ Blogs coming soon! ## 20210622
 Find out more ## find_out_more
 The DECIDE score ## decide_score
 User agreement ## user_agreement
 Tracking use ## tracking_use
 App development ## in_development
 Frequently asked questions ## faq
+
