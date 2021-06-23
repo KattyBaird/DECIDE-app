@@ -13,7 +13,7 @@ This repository is also used to store the Markdown pages served
 as static content within the app.
 
 These pages, and associated resources like images, are stored
-directly under the *infopages* sub-folder. There is also a text file
+directly under the *infopages/md* sub-folder. There is also a text file
 in that folder - *menu.txt* - which defines the Infomation
 pages menu within the app. 
 
