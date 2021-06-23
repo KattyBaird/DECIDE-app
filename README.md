@@ -25,7 +25,7 @@ Note that the markdown pages are consumed in the app by a React
 plugin that is capable of interpreting HTML too. We're using HTML/CSS
 here and there within the MD pages, e.g. to float images.
 
-## Images
+### Images
 Images for displaying in the markdown pages are all kept together in
 the *infopages/images* folder. Images can be included in markdown
 pages using standard markdown, but there are very limited formatting
@@ -52,7 +52,7 @@ _Note that GitHub will not interpret the CSS properties so when you
 view the markdown in GitHub, the image will not appear with the formatting
 that will be used in the app._
 
-## The menu.txt file
+### The menu.txt file
 The *menu.txt* file, found in the *infopages* subfolder, is read and 
 parsed by the app and it controls the
 layout of the menu under the _Information_ item in the menu. The general
