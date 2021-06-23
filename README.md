@@ -12,10 +12,8 @@ to particular releases of the app.
 This repository is also used to store the Markdown pages served
 as static content within the app.
 
-These pages, and associated resources like images, are stored
-directly under the *infopages/md* sub-folder. There is also a text file
-in that folder - *menu.txt* - which defines the Infomation
-pages menu within the app. 
+These markdown pages are stored
+in the *infopages/md* folder.
 
 The first line of each markdown page must have
 a comment on the first line the provides the page title used 
@@ -27,8 +25,36 @@ Note that the markdown pages are consumed in the app by a React
 plugin that is capable of interpreting HTML too. We're using HTML/CSS
 here and there within the MD pages, e.g. to float images.
 
+## Images
+Images for displaying in the markdown pages are all kept together in
+the *infopages/images* folder. Images can be included in markdown
+pages using standard markdown, but there are very limited formatting
+options.
+
+But the markdown parser used in the app is also capable of interpreting
+HTML. Therefore it will normally be better, for the sake of formatting,
+to use HTML to includes images.
+
+Here is an example of HTML that can be used to include an image
+file in a markdown page:
+```
+<img src="/infopages/images/score-image2.png" style="float:right; width: 400px; margin-left: 1em"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget risus ac est mattis congue quis at lacus. Praesent dignissim nunc eget ante dignissim, nec sodales enim lacinia.
+```
+In that example the HTML `<img>` tag is used to include an image from the
+*infopages/images* folder. The `style` attribute sets a number of 
+CSS properties that style the image. In this example they set the width of
+the image and 'float' it to the right of the paragraph that follows, 
+which means that the the paragraph text will appear to the left of the 
+image. The `margin-left` CSS property ensures that there is a gap
+between the image and the text to it's left.
+
+_Note that GitHub will not interpret the CSS properties so when you
+view the markdown in GitHub, the image will not appear with the formatting
+that will be used in the app._
+
 ## The menu.txt file
-The menu.txt file is read and parsed by the app and it controls the
+The *menu.txt* file, found in the *infopages* subfolder, is read and 
+parsed by the app and it controls the
 layout of the menu under the _Information_ item in the menu. The general
 format of entries in this file is:
 ```
