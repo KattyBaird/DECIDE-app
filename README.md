@@ -39,7 +39,7 @@ item is in a submenu - see below.
 
 A submenu is define simplly like this:
 ```
-Submenu name
+Name of submenu
 ```
 Most importatnly it must be indented by one space from the menu
 item above it. The all subsequent menu items that are
